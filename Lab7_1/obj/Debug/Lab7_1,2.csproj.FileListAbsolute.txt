@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Lab7_1\Lab7_1\obj\Debug\Lab7_1,2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Lab7_1\Lab7_1\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\Lab7_1\Lab7_1\obj\Debug\App.g.cs
+C:\Users\user\source\repos\Lab7_1\Lab7_1\obj\Debug\Lab7_1,2_MarkupCompile.cache
+C:\Users\user\source\repos\Lab7_1\Lab7_1\obj\Debug\Lab7_1,2_MarkupCompile.lref
+C:\Users\user\source\repos\Lab7_1\Lab7_1\obj\Debug\Lab7_1,2.exe
+C:\Users\user\source\repos\Lab7_1\Lab7_1\obj\Debug\Lab7_1,2.pdb
